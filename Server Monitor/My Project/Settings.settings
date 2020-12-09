@@ -6,7 +6,7 @@
       <Value Profile="(Default)" />
     </Setting>
     <Setting Name="intervall" Type="System.Double" Scope="User">
-      <Value Profile="(Default)">10</Value>
+      <Value Profile="(Default)">45</Value>
     </Setting>
     <Setting Name="email_smtp" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
